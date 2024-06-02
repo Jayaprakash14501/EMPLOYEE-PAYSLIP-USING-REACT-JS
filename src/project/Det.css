@@ -1,0 +1,118 @@
+table,tr,td,th{
+    border:1px solid black;
+    border-collapse:collapse;
+    padding:10px;
+}
+table{
+    margin-left:20%;
+    margin-right:20%;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+td,th{
+width:200px;
+}
+.linker li{
+    list-style-type:none;
+    display:inline-block;
+    padding:20px;
+    font-size:50px;
+    text-decoration:none;
+    font-style:italic;
+   
+}
+.linker
+{
+    color:white;
+    background-color:rgb(12, 143, 179);
+    padding:5px;
+    
+  
+
+}
+.formdiv{
+    background-color:rgb(164, 239, 239);
+    padding:10px;
+}
+.formdiv table,.formdiv td,.formdiv tr,.formdiv th{
+    border:none;
+    margin-left:auto;
+    margin-right:auto;
+}
+#design
+{
+    width:300px;
+    height:30px;
+    border-radius:5px;
+    border:none;
+}
+.formdiv th{
+    text-align:left;
+}
+#butt
+{
+    width:40%;
+    height:30px;
+    border-radius:10px;
+    margin-left:5%;
+    margin-right:5%;
+    color:white;
+    border:none;
+    background-color:purple;
+}
+.footer
+{
+    background-color:rgb(0, 119, 255);
+    color:white;
+    text-align:center;
+    padding:10px;
+    font-style:italic;
+}
+.about{
+    margin-left:10%;
+    margin-right:10%;
+    margin-top:10px;
+    margin-bottom:10px;
+    word-spacing:10px;
+    font-size:20px;
+    text-indent:50px;
+    text-align:justify;
+    letter-spacing:1px;
+    background-color:rgb(164, 239, 239);
+}
+fieldset{
+    padding-left:30px;
+    padding-right:30px;
+    border-radius:10px;
+    border-color:rgb(11, 116, 169);
+}
+.slip table,.slip tr,.slip td,.slip th
+{
+   border:1px solid ora;
+   padding:10px;
+  
+  
+}
+.slip{
+    background-color:rgb(164, 239, 239);
+    color:black;
+    padding:10px;
+}
+.body{
+    background-color:rgb(164, 239, 239);
+    padding:10px; 
+}
+hr{
+    border:1px dashed rgb(9, 114, 211);
+}
+.about h1{
+color:rgb(9, 114, 211);
+}
+.list
+{
+    font-size:20px;
+    color:black;
+    text-decoration:none;
+    letter-spacing:2px;
+    
+}
